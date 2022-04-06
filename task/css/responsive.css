@@ -1,0 +1,393 @@
+@media only screen and (max-width:1024px){
+
+
+	/*====================== HOME PAGE ===============================*/
+	.menu-bar .navbar-light .navbar-nav .nav-link {
+    padding-left: 10px;
+    font-size: 14px;
+}  
+.top-pannel-middle a {
+    font-size: 13px;
+}
+.top-pannel-last a {
+    font-size: 13px;
+}
+a.btn-floating.previous-icon {
+    left: -44px;
+}
+a.btn-floating.next-icon {
+    right: -44px;
+}
+.carousel-inner h5 {
+    font-size: 32px;
+}
+.banenr-certified-img {
+    bottom: 95px;
+    left: 103px;
+}
+.carousel-inner.text-banner a {
+    font-size: 11px;
+    padding: 12px 32px;
+}
+ul.navbar-nav li.nav-item {
+    padding: 25px 2px;
+}
+.menu-bar .navbar-light .navbar-nav .nav-link {
+    padding-left: 10px;
+    font-size: 13px;
+}
+.floating img {
+    width: 80px;
+}
+.carousel-inner h5 {
+    font-size: 24px;
+}
+.carousel-caption h2 {
+    font-size: 67px;
+    line-height: 77px;
+    margin-top: 13px;
+}
+.carousel-inner.text-banner a {
+    font-size: 13px;
+    padding: 12px 32px !important;
+}
+.carousel-caption {
+    padding-top: 0;
+}
+section.about-home {
+    padding: 62px 0px 80px;
+}
+.carousel {
+    height: 676px;
+}
+.our-work-left img {
+    width: 128%;
+}
+.counter-box p {
+    font-size: 19px;
+}
+.counter-box span.counter {
+    font-size: 57px;
+}
+span.counter_plus {
+    font-size: 57px;
+}
+.counter-content h3 {
+    font-size: 37px;
+    padding: 26px 0 39px;
+}
+}
+
+/*======================END HOME PAGE ===============================*/
+@media only screen and (max-width: 991px){
+	section.header {
+    display: none !important;
+}
+.container {
+    max-width: 930px;
+}
+
+.nav-bar-drdpm button.navbar-toggler.collapsed {
+    background: #fff;
+}
+.nav-bar-drdpm button.navbar-toggler {
+    background: white;
+}
+ul.navbar-nav {
+    position: absolute;
+    background: #000000eb;
+    width: 100%;
+    left: 0%;
+    top: 93px;
+}
+li.nav-item {
+    border: 1px solid #6a6973;
+}
+ul.navbar-nav li.nav-item {
+    padding: 9px 2px;
+}
+.carousel-caption {
+    text-align: center;
+    top: 170px;
+}
+.carousel-inner h5 {
+    font-size: 21px;
+}
+.carousel-caption h2 {
+    font-size: 50px;
+    line-height: 48px;
+    margin-top: 13px;
+}
+.carousel-control-prev {
+    top: -31%;
+}
+
+.carousel-control-next {
+    top: -31%;
+}
+.carousel {
+    height: 627px;
+}
+span.text-theme-colored2 {
+    font-size: 31px;
+}
+.about-home-text p {
+    font-size: 16px;
+    line-height: 27px;
+}
+.about-home-text {
+    padding: 0px 0 0 3px;
+}
+.about-home-text a {
+    padding: 13px 46px;
+    font-size: 14px;
+}
+
+.dropdown-content a {
+    width: 100%;
+}
+.dropdown-content {
+    position: initial;
+}
+}
+
+@media only screen and (max-width: 770px){
+.carousel-inner h5 {
+    font-size: 19px;
+}
+.carousel-caption {
+    top: 191px;
+    left: 73px;
+}
+.carousel-control-prev {
+    top: -53%;
+}
+.carousel-control-next {
+    top: -53%;
+}
+.carousel {
+    height: 521px;
+}
+.about-home-text h4 {
+    font-size: 18px;
+}
+.about-home-text h2 {
+    font-size: 34px;
+    margin-bottom: 11px;
+}
+.about-home-text p {
+    font-size: 15px;
+    line-height: 25px;
+}
+section.about-home {
+    padding: 4px 0px 60px;
+}
+.counter-content h3 {
+    font-size: 37px;
+    padding: 4px 0 20px;
+}
+.counter-box span.counter {
+    font-size: 44px;
+}
+span.counter_plus {
+    font-size: 51px;
+}
+.counter-box p {
+    font-size: 17px;
+}
+.counter-content h3 {
+    font-size: 32px;
+    padding: 4px 0 7px;
+}   
+.our-services-content-center-1 p {
+    line-height: 23px;
+    font-size: 14px;
+}
+.get-a-call h2 {
+    font-size: 32px;
+}
+a.get-a-call-buttom {
+    font-size: 15px;
+    font-weight: 600;
+    padding: 17px 63px;
+}
+}
+@media only screen and (max-width: 550px){
+.carousel {
+    height: 482px;
+}
+.banner-img {
+    height: 482px;
+}
+.carousel-inner h5 {
+    font-size: 18px;
+    width: 50%;
+}
+.carousel-caption h2 {
+    font-size: 38px;
+    line-height: 45px;
+    margin-top: 13px;
+}
+.carousel-control-prev {
+    width: 38px;
+}
+.carousel-control-next {
+    width: 38px;
+}
+.about-home-text {
+    padding: 35px 16px 0 25px;
+}
+.our-services-content-left h3 {
+    padding-top: 102px;
+    padding-bottom: 47px;
+    font-size: 36px;
+    line-height: 39px;
+}
+}
+@media only screen and (max-width: 420px){
+
+img.banner-img {
+    height: inherit;
+    width: 105% !important;
+}
+.carousel-inner.text-banner a {
+    font-size: 12px;
+    padding: 11px 22px !important;
+}
+.our-work-left img {
+    width: 91%;
+    margin: 0;
+}
+.about-home-text-2 p {
+    font-size: 15px;
+    line-height: 27px;
+}
+.about-home-text-2 a {
+    padding: 13px 42px;
+    font-size: 13px;
+}
+
+.about-home-text a {
+    padding: 13px 42px;
+    font-size: 13px;
+}
+.carousel-inner.text-banner a {
+    font-size: 12px;
+    padding: 11px 22px !important;
+    width: 100%;
+    margin: 0 6px 0 0px;
+}
+section.our-work {
+    padding: 64px 0;
+}
+.our-services-content-center-1 {
+    padding: 25px 43px;
+}
+.our-services-content-left h3 {
+    padding-top: 70px;
+}
+.testimonial-1-text p {
+    font-size: 14px;
+}
+.testimonial-icon img {
+    width: 80%;
+}
+.testimonial-icon {
+    top: -34px;
+}
+.past-projects h3 {
+    font-size: 36px;
+    padding-top: 9px;
+}
+.get-a-call h2 {
+    font-size: 25px;
+}
+.get-a-call h5 {
+    font-size: 19px;
+}
+.get-a-call-footer {
+    text-align: center !important;
+}
+.get-a-call {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer {   
+    padding: 40px 0 29px;
+}
+.footer p {
+    font-size: 14px;
+    line-height: 23px;
+}
+.list-unstyled li {
+    font-size: 14px;
+    padding: 0 0 14px;
+}
+.footer {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btm-to-top button {
+    padding: 7px 12px;
+}
+ul.navbar-nav li.nav-item {
+    padding: 6px 2px;
+}
+.menu-bar .navbar-light .navbar-nav .nav-link:hover {
+    font-size: 13px;
+}
+.carousel-control-prev {
+    top: -27%;
+}
+.carousel-control-next {
+    top: -27%;
+}
+ul.navbar-nav li.nav-item {
+    padding: 3px 2px;
+}
+ul.navbar-nav {
+    height: 400px;
+    overflow-y: scroll;
+    z-index: 999;
+}
+section.about-home {
+    padding: 45px 0px 60px;
+}
+.what-we-do-text {
+    width: 50%;
+}
+.our-services {
+    padding: 0;
+}
+h4.name {
+    color: white;
+    font-size: 13px;
+}
+p.designation {
+    font-size: 13px;
+}
+.get-a-call {
+    text-align: center;
+}
+}
+@media only screen and (max-width: 400px){
+.carousel-inner.text-banner a {
+    font-size: 11px;
+    padding: 11px 29px !important;
+}
+.carousel-caption {
+    width: 100%;
+    left: 57px;
+}
+img.banner-img {
+    height: 517px;
+}
+.carousel {
+    height: 420px;
+}
+}
+@media only screen and (max-width: 375px){
+.team-inner-text {
+    top: 234px;
+}
+}
